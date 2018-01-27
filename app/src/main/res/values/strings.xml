@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Surf</string>
+
+    <string name="hello_world">Type here a URL</string>
+    <string name="action_settings">&lt;--</string>
+</resources>
